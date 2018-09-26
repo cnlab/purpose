@@ -24,12 +24,9 @@ Kang, Y., Pandey, P., Cooper, N., Scholz, C., O'Donnell, M. B., Elliott, A. M., 
 3.	Participants were given a random selection of 10 risk messages from the pool of 16 risk messages.
 
 4.	Task timing for each message block
-	
-	1. Health message (8 s, pictogram and audio accompanied)
-
-    	2. Relevance rating (4 s, “Indicate how relevant each statement is to you, 1=not relevant-4=relevant”)
-
-    	3. Blocks were separated by fixation rest periods (3 s); every fifth block contained a longer (12 s) block of rest.
+     1. Health message (8 s, pictogram and audio accompanied)
+     2. Relevance rating (4 s, “Indicate how relevant each statement is to you, 1=not relevant-4=relevant”)
+     3. Blocks were separated by fixation rest periods (3 s); every fifth block contained a longer (12 s) block of rest.
 
 
 5.	The risk messages were presented on a single screen for 10 seconds with accompanying audio.
